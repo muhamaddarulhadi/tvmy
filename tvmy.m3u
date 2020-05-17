@@ -168,20 +168,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,National Geographic (MENA)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:0,NBA TV
-http://185.246.209.109:8080/NBA9/index.m3u8
-
 #EXTINF:0,Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:0,Sundance TV
-http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
-
-#EXTINF:0,Syfy
-http://185.246.209.109:8080/SYFY/index.m3u8
-
-#EXTINF:0,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8?fluxustv.m3u8
 
 #EXTINF:0,TastyTrade
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
@@ -195,8 +183,3 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_500000
 #EXTINF:0,Travel 4U
 https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:0,TLC*
-http://80.80.160.168/live/2/live.m3u8
-
-#EXTINF:0,Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
