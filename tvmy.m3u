@@ -150,9 +150,9 @@ http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mX1nnGy.png" tvg-country="MY" tvg-url="" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-#EXTINF:0,Anime All Ages
-https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:0,Food Network
+http://95.86.32.7:999/food
 
-
-
+#EXTINF:0,Fox Sports
+http://45.58.62.92:8080
 
